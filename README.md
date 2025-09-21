@@ -13,7 +13,7 @@ I'm a passionate software engineer with 7+ years of experience in full-stack dev
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Node.js, React.js, Angular.js, Rust
+- **Languages:** JavaScript, Node.js, React.js, Angular.js, Rust, Golang, Java, Python
 - **Databases:** SQL, NoSQL, MongoDB
 - **Cloud:** AWS, Azure
 - **Tools:** Docker, Git
@@ -22,7 +22,8 @@ I'm a passionate software engineer with 7+ years of experience in full-stack dev
 
 ## 💼 Professional Experience
 
-- **Chapter Leader | Software Engineering Specialist** at ioasys (Jan 2022 - Present)
+- **Software Engineer** at Mercado Livre (Aug 2025 - Present)
+- **Chapter Leader | Software Engineering Specialist** at ioasys (Jan 2022 - Aug 2025)
 - **Tech Lead** at ioasys (Mar 2020 - Jan 2022)
 - **Full Stack Developer** at ioasys (Dec 2018 - Jan 2022)
 - **Systems Developer** at Robbyson (Jul 2018 - Dec 2018)
